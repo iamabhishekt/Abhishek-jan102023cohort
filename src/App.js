@@ -9,7 +9,7 @@ function App() {
     <div className="App">
  <Container fluid>
           <h1 className="display-3">WELCOME TO BOOTCAMP - Jan 10 2023 Edition</h1>
-          <p className="lead">My Name is Abhishek Thakur and I am Student  </p>
+          <p className="lead">My Name is Abhishek Thakur and I am a Student</p>
           <p className="lead"><a href="https://github.com/iamabhishekt">Here</a> is my Github Link  </p>
           <p className="lead"><a href="https://webdevnotes.wynisco.com">Here</a> Here is Class Notes Link </p>
           <p className="lead"><a href="https://webdevhw.wynisco.com">Here</a> Here is Homeworks Link </p>

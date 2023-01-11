@@ -24,7 +24,6 @@ function App() {
           </a>{" "}
           Main Google Spreadsheet{" "}
         </p>
-
         <DataTable />
       </Container>
     </div>
